@@ -1,0 +1,31 @@
+{
+  "name": "koa-preprocessor",
+  "version": "0.0.0",
+  "description": "Use gulp for render files in memory.",
+  "main": "lib/koa-preprocessor.js",
+  "repository": "lusever/koa-preprocessor",
+  "keywords": [
+    "koa",
+    "gulp",
+    "stylus",
+    "jsx"
+  ],
+  "author": {
+    "name": "Pavel Kornilov",
+    "email": "lusever@lusever.com",
+    "url": "http://lusever.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lusever/koa-preprocessor/issues"
+  },
+  "homepage": "https://github.com/lusever/koa-preprocessor",
+  "dependencies": {
+    "co-fs": "^1.2.0",
+    "debug": "^2.2.0",
+    "globule": "^0.2.0",
+    "gulp": "^3.9.0",
+    "gulp-tap": "^0.1.3",
+    "mime-types": "^2.1.1"
+  }
+}
