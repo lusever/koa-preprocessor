@@ -1,0 +1,12 @@
+{
+  "env": {
+    "node": true
+  },
+  "ecmaFeatures": {
+    "generators": true
+  },
+  "rules": {
+    "quotes": [1, "single"],
+    "semi": 2
+  }
+}
